@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Sebastian&#39;s Website</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Sebastian&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>My Post</title>
+      <title>Post on car data</title>
       <link>/2019/04/30/my-post/</link>
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/04/30/my-post/</guid>
-      <description></description>
+      <description>Car Data
+Car weight vs Mpg
+</description>
     </item>
     
     <item>

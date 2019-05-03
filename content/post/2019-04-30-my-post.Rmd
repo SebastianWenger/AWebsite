@@ -1,8 +1,14 @@
 ---
-title: My Post
+title: Post on car data
 author: SebastianWenger
 date: '2019-04-30'
 slug: my-post
 categories: []
 tags: []
 ---
+
+
+![Car Data](images/Rplot.png)
+
+
+![Car weight vs Mpg](images/Rplot02.png)
