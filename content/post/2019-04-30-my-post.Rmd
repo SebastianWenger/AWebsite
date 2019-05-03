@@ -8,7 +8,7 @@ tags: []
 ---
 
 
-![Car Data](images/Rplot.png)
+![Car Data](/img/Rplot.png)
 
 
-![Car weight vs Mpg](images/Rplot02.png)
+![Car weight vs Mpg](/img/Rplot02.png)
